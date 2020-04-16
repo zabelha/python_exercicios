@@ -1,6 +1,4 @@
-# Duplas
-# Vanessa dos Santos Berti, RA: 1900865
-# Izabella Queiroz Cardoso, RA: 1900693
+
 '''
 EXPLICACAO
 Uma pilha é uma estrutura de dados que tem um "topo".
