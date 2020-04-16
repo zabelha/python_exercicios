@@ -1,6 +1,4 @@
-# Dupla:
-# Izabella Queiroz Cardoso, RA: 1900693
-# Vanessa dos Santos Berti, RA: 1900865
+
 '''
 No fim do arquivo, temos uma classe para representar peças de dominó
 Veja como a classe funciona:
